@@ -1,6 +1,8 @@
 ### Efficient Inference of Temporal Task Specifications from Human Demonstrations using Experiment Design
 Shlok Sobti, Rahul Shome, Lydia E. Kavraki
 
+[Paper Link](https://www.kavrakilab.org/publications/sobti2023-temporal-task.pdf)
+
 > Increased robotic deployments in human environments have motivated the need for autonomous systems to be able to observe and interact with humans. Human demonstrations of tasks can be used to infer underlying task specifications, commonly modeled with temporal logic. State-of-the-art methods have developed Bayesian inference tools to estimate a temporal logic formula from a sequence of demonstrations. The current work proposes the introduction of experiment design to choose environments for the humans to perform demonstrations. This results in reducing the number of demonstrations needed to estimate the unknown ground truth formula with low error. A novel computationally efficient strategy is proposed by leveraging the hypothesis that the demonstrator is (near-)optimal. A human study is designed to collect 600 human demonstrations from 20 participants for 4 different tasks to validate the proposed hypothesis and empirical performance benefit over the state-of-the-art baselines. A dataset collected from the human study is also publicly shared.  
 
 #### Instructions
